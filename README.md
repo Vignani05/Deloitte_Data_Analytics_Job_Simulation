@@ -2,6 +2,9 @@
 
 Completed Deloitte Australia's Data Analytics Job Simulation on Forage.
 
+## Overview
+This simulation replicates real-world tasks performed by Deloitte's analytics teams, involving investigative data analysis, classification, and the communication of findings through visual dashboards.
+
 ## What I Did
 
 - Completed a Deloitte job simulation involving data analysis and forensic technology.
